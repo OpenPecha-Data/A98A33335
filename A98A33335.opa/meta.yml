@@ -1,0 +1,28 @@
+id: A98A33335
+title: The Root Verses on the Six Bardos
+type: translation
+pechas:
+- ID98E8DD7
+- IF9DD535A
+- IB2531151
+- IBAAB667B
+- I58155EF4
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:46:41.006719
+  last_modified_at: 2023-01-04 12:46:41.006741
+  collections:
+  - Karma Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  ID98E8DD7/0D68: D382
+  IF9DD535A/63B1: D382
+  IB2531151/A739: D382
+  IBAAB667B/1E5D: D382
+  I58155EF4/BBF2: D382
